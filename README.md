@@ -1,6 +1,6 @@
 # Pysockcs-simple
 
-In netcat I can send data while receive data at the same time.And ,for python programming if you use recv() and send() in only one thread,you cannot send data until recv() is finished cause recv() block the thread.
+In netcat I can send data while receive data at the same time.And for python programming if you use recv() and send() in only one thread,you cannot send data until recv() is finished cause recv() block the thread.
 
 ![](pysock.png)
 
